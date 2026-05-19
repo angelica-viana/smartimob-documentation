@@ -19,6 +19,28 @@ Centralizar e simplificar a gestão imobiliária através de uma plataforma mode
 
 ---
 
+## 🚧 Status do Projeto
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+
+Atualmente em fase de desenvolvimento da aplicação.
+
+---
+
+## 📌 Roadmap
+
+- [x] Levantamento de requisitos
+- [x] Documentação funcional
+- [x] Modelagem de banco
+- [x] Protótipos
+- [x] DER
+- [ ] Desenvolvimento Front-end
+- [ ] Desenvolvimento Back-end
+- [ ] Testes
+- [ ] Deploy
+
+---
+
 ## Funcionalidades do MVP
 
 - Login e autenticação
@@ -108,20 +130,32 @@ Centralizar e simplificar a gestão imobiliária através de uma plataforma mode
 
 ---
 
-## Responsável pelo Projeto
+## 👥 Equipe do Projeto
 
+### Gestão do Produto e Documentação
 Angelica Viana da Paixão
 
-### Atuação
-- Product Owner
-- Gestão do Projeto
-- Engenharia de Requisitos
-- Validação Funcional
+Responsável por:
+- levantamento de requisitos;
+- regras de negócio;
+- documentação funcional;
+- MVP;
+- modelagem relacional;
+- protótipos;
+- planejamento do sistema.
 
 ---
 
-## Status
+### Desenvolvimento da Aplicação
+Romilton Viana da Paixão
 
-📌 Projeto em fase de documentação e planejamento do MVP.
-Gestão do Projeto;
-Validação Funcional.
+Responsável por:
+- arquitetura do sistema;
+- desenvolvimento front-end;
+- desenvolvimento back-end;
+- implementação técnica;
+- banco de dados.
+
+---
+
+
