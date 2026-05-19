@@ -33,30 +33,50 @@ Centralizar e simplificar a gestão imobiliária através de uma plataforma mode
 
 ---
 
-## Documentação do Projeto
+## 🎨 Protótipos do Sistema
 
-- Documento de Requisitos
-- Fluxo de Telas
-- Estrutura Visual
-- MVP
-- Banco de Dados
-- Regras de Negócio
+### Protótipos Geral
+
+![Prototipos](imagens/prototipos/prototipo-geral.png)
 
 ---
 
-## Tecnologias Sugeridas
+### Login
 
-### Front-end
-- React
-- Next.js
-
-### Back-end
-- Node.js
-
-### Banco de Dados
-- PostgreSQL
+![Login](imagens/prototipos/login.png)
 
 ---
+
+### Dashboard
+
+![Dashboard](imagens/prototipos/dashboard.png)
+
+---
+
+### Gestão de Contratos
+
+![Contratos](imagens/prototipos/contratos.png)
+
+---
+
+### Reajustes
+
+![Reajustes](imagens/prototipos/reajustes.png)
+
+---
+
+### Alertas
+
+![Alertas](imagens/prototipos/alertas.png)
+
+---
+
+## 🗄️ DER — Banco de Dados
+
+![DER](imagens/diagramas/der-smartimob.png.png)
+
+---
+
 
 ## 📄 Documentação Oficial
 
@@ -70,6 +90,21 @@ Centralizar e simplificar a gestão imobiliária através de uma plataforma mode
 | Estrutura Visual | [Abrir PDF](docs/pdf/estrutura-visual-das-telas.pdf) |
 | MVP | [Abrir PDF](docs/pdf/mvp.pdf) |
 | Banco de Dados | [Abrir PDF](docs/pdf/banco-de-dados.pdf) |
+
+---
+
+
+## Tecnologias Sugeridas
+
+### Front-end
+- React
+- Next.js
+
+### Back-end
+- Node.js
+
+### Banco de Dados
+- PostgreSQL
 
 ---
 
