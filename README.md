@@ -58,6 +58,21 @@ Centralizar e simplificar a gestão imobiliária através de uma plataforma mode
 
 ---
 
+## 📄 Documentação Oficial
+
+| Documento | Acesso |
+|---|---|
+| Documentação Completa | [Abrir PDF](docs/pdf/smartimob-documentacao-completa.pdf) |
+| Requisitos Funcionais | [Abrir PDF](docs/pdf/requisitos-funcionais.pdf) |
+| Regras de Negócio | [Abrir PDF](docs/pdf/regras-de-negocio.pdf) |
+| Requisitos Não Funcionais | [Abrir PDF](docs/pdf/requisitos-nao-funcionais.pdf) |
+| Fluxo de Telas | [Abrir PDF](docs/pdf/fluxo-de-telas.pdf) |
+| Estrutura Visual | [Abrir PDF](docs/pdf/estrutura-visual-das-telas.pdf) |
+| MVP | [Abrir PDF](docs/pdf/mvp.pdf) |
+| Banco de Dados | [Abrir PDF](docs/pdf/banco-de-dados.pdf) |
+
+---
+
 ## Responsável pelo Projeto
 
 Angelica Viana da Paixão
